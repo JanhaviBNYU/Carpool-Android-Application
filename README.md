@@ -1,2 +1,2 @@
 # MS-Course-AndroidApp
-Android Studio Solution "CarPool" for a school project
+Android Studio Solution CarPool NYU School Project
