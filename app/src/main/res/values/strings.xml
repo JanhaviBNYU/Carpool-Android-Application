@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">CarpoolApplication</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="facebook_app_id">882272168504543</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="google_map_key">AIzaSyAJa2eovTFgzh-rihdB4tnRvX_Xt5AdTGc</string>
+
+    <string-array name="NavList">
+        <item>Post</item>
+        <item>Search</item>
+        <item>MyPools</item>
+    </string-array>
+    <string name="title_activity_main_screen">MainScreen</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="ParseAppID">UCLkdX94UCZbGL4a0pKK4N8NhLVm31J8xOY9dsmh</string>
+    <string name="ParseClientID">8uccF28L2Ogqq9fAQvSk5uIlzfQFzcIrRzGqwVgR</string>
+
+
+    <string name="SharedPrefName">SharedPrefDB</string>
+    <string name="title_activity_google_maps">GoogleMaps</string>
+
+</resources>

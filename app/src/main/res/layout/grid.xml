@@ -1,0 +1,71 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:padding="5dp" >
+
+    <ImageView
+        android:id="@+id/grid_item_image"
+        android:layout_width="50px"
+        android:layout_height="50px"
+        android:layout_marginRight="10px"
+        android:src="@drawable/tick" >
+
+    </ImageView>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_gravity="top">
+
+        <TextView
+            android:id="@+id/GStart"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:layout_marginTop="3px"
+            android:textSize="40px" >
+        </TextView>
+
+        <TextView
+        android:id="@+id/GDest"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="3px"
+        android:textSize="40px" />
+
+        <TextView
+            android:id="@+id/GDate"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3px"
+            android:textSize="30px" />
+        <TextView
+            android:id="@+id/GTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3px"
+            android:textSize="30px" />
+        <TextView
+            android:id="@+id/GFare"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3px"
+            android:textSize="30px" />
+        <TextView
+            android:id="@+id/GContact"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3px"
+            android:textSize="30px" />
+        <TextView
+            android:id="@+id/GPhone"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="3px"
+            android:textSize="30px" />
+
+    </LinearLayout>
+
+
+</LinearLayout>
