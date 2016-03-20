@@ -1,2 +1,3 @@
-# MS-AndroidApp
-Android Studio Solution CarPool NYU School Project
+# Carpool-AndroidApp
+
+Android Studio Solution - Carpool NYU School Project
